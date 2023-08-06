@@ -12,3 +12,5 @@ GitPython
 heroku3
 rich
 aiofiles
+flask
+gunicorn
