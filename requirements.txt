@@ -14,3 +14,4 @@ rich
 aiofiles
 flask
 gunicorn
+flask_restful
